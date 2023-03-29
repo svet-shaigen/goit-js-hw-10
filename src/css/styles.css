@@ -50,20 +50,3 @@ body {
   font-weight: 900;
   font-size: 30px;
 }
-
-.country-list__item {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 15px;
-  list-style: none;
-}
-
-.country-list__img {
-  width: 40px;
-  height: 20px;
-}
-
-.country-list__span {
-  margin: 0;
-  padding: 0;
-}
